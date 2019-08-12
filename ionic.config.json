@@ -1,0 +1,7 @@
+{
+  "name": "zensar",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
